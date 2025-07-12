@@ -31,6 +31,9 @@ The site takes your question input and sends it to the Gemini API using a `fetch
 ## 🛡️ Security Warning
 
 Do **not** use a real API key in public-facing apps. Set up a backend proxy to keep your key secure if deploying in production.
+> ⚠️ API key has been removed for security.  
+> To test locally, insert your key in `script.js` where noted.
+
 
 ## 🧠 Credits
 
